@@ -22,4 +22,4 @@ marker_cluster = MarkerCluster().add_to(map)
 for lat, lon, elevation in zip(lat, lon, elevation):
     folium.CircleMarker(location=[lat, lon], radius = 9, popup=str(elevation)+" m", fill_color=color_change(elevation), color="gray", fill_opacity = 0.9).add_to(marker_cluster)
 
-map.save("map1.html")
+map.save("index.html")
