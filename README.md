@@ -5,9 +5,9 @@ The example of creating map by using Python library [folium](https://python-visu
 *   Clone this repository
 
 *   Execute **python script**
-  ```bash
-  python index.py
-  ```
+    ```bash
+    python index.py
+    ```
   
 *   Open in your browser **index.html** from this repository
 
