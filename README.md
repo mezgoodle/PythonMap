@@ -1,6 +1,7 @@
 # Introduction
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4ccb8f1db44a4afc9db30e21e0b409f5)](https://www.codacy.com/manual/mezgoodle/PythonMap?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mezgoodle/PythonMap&amp;utm_campaign=Badge_Grade)
+![Python application](https://github.com/mezgoodle/PythonMap/workflows/Python%20application/badge.svg)
 
 The example of creating map by using Python library [folium](https://python-visualization.github.io/folium/).
 
