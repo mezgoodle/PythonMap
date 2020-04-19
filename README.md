@@ -5,13 +5,21 @@
 The example of creating map by using Python library [folium](https://python-visualization.github.io/folium/).
 
 ## Usage
-*   Clone this repository
 
-*   Execute **python script**
+ * Clone this repository
+ 
+ * Install libraries
+ ```bash
+ pip install -r requirements.txt
+ ```
+
+ * Execute **python script**
+ 
     ```bash
     python index.py
     ```
-*   Open in your browser **index.html** from this repository
+    
+ * Open in your browser **index.html** from this repository
 
 ## Result
 [Here](https://mezgoodle.github.io/PythonMap/) you can see the result HTML-page. 
