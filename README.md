@@ -6,20 +6,25 @@ The example of creating map by using Python library [folium](https://python-visu
 
 ## Usage
 
- * Clone this repository
+ * Clone this repository:
  
- * Install libraries
+ ```bash
+ git clone https://github.com/mezgoodle/PythonMap.git
+ ```
+ 
+ * Install libraries with [pip](https://packaging.python.org/tutorials/installing-packages/):
+ 
  ```bash
  pip install -r requirements.txt
  ```
 
- * Execute **python script**
+ * Execute **python script**:
  
  ```bash
  python index.py
  ```
     
- * Open in your browser **index.html** from this repository
+ * Open in your browser **index.html** from this project
 
 ## Result
 [Here](https://mezgoodle.github.io/PythonMap/) you can see the result HTML-page. 
